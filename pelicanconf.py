@@ -1,6 +1,6 @@
 AUTHOR = 'Kaelen'
 SITENAME = 'My Cool Site'
-SITEURL = 'https://github.com/KaelenB/ktbrown.github.io.git'
+SITEURL = 'https://ktbrown.github.io'
 THEME = 'templates/mytheme'
 
 PATH = 'content'
